@@ -1,4 +1,4 @@
-sequence of github
+******sequence of github
 
 1.
 Open Terminal and navigate to your project directory:
@@ -50,3 +50,17 @@ git push -u origin master
 
 
 after this we can also git push   to push anything to github
+
+
+
+
+
+******sequence to pull
+
+1.create a fork with a new repo name of that data which u want to modify or do work in it.
+
+2.click on code and copy the link
+
+3.now open any file where u want to clone that data and type "git clone  <copied link> "
+
+4.that whole data now is in your choosed file.
